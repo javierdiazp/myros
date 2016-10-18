@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: rqt_moveit
+Description: Description of rqt_moveit
+Version: 0.4.3
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

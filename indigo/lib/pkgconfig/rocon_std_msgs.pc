@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: rocon_std_msgs
+Description: Description of rocon_std_msgs
+Version: 0.7.12
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: message_runtime std_msgs rocon_service_pair_msgs

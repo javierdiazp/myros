@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: zeroconf_msgs
+Description: Description of zeroconf_msgs
+Version: 0.2.1
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

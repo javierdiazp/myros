@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: rocon_qt_library
+Description: Description of rocon_qt_library
+Version: 0.7.12
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_utilities
+Description: Description of ecl_utilities
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: ecl_mpl ecl_concepts

@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: move_base
+Description: Description of move_base
+Version: 1.12.13
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: roscpp dynamic_reconfigure

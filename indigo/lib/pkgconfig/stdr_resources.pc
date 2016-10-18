@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: stdr_resources
+Description: Description of stdr_resources
+Version: 0.3.1
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

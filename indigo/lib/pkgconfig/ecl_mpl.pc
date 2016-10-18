@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_mpl
+Description: Description of ecl_mpl
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

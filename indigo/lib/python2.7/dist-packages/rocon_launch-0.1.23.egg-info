@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_launch
+Version: 0.1.23
+Summary: A multi-roslaunch (for single and multi-master systems).
+Home-page: http://ros.org/wiki/rocon_launch
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

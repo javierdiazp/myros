@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: eigen_stl_containers
+Description: Description of eigen_stl_containers
+Version: 0.1.4
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

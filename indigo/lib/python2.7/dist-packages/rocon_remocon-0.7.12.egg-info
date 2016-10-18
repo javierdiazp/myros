@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_remocon
+Version: 0.7.12
+Summary: A qt based remocon for interacting with ros systems.
+Home-page: http://www.ros.org/wiki/rocon_remocon
+Author: Daniel Stonier <d.stonier@gmail.com>, Donguk Lee <dwlee@yujinrobot.com>
+Author-email: UNKNOWN
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

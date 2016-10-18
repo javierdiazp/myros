@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_concepts
+Description: Description of ecl_concepts
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: ecl_config ecl_type_traits

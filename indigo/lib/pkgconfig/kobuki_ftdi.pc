@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: kobuki_ftdi
+Description: Description of kobuki_ftdi
+Version: 0.6.4
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: ecl_command_line

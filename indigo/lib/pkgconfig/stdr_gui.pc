@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: stdr_gui
+Description: Description of stdr_gui
+Version: 0.3.1
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: roscpp roslib tf stdr_msgs stdr_server stdr_robot stdr_parser sensor_msgs nav_msgs

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rocon_qt_library
+Version: 0.7.12
+Summary: Common widgets and modules for rocon qt development.
+Home-page: http://ros.org/wiki/concert_qt_library
+Author: Daniel Stonier
+Author-email: d.stonier@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_exceptions
+Description: Description of ecl_exceptions
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lecl_exceptions
+Requires: ecl_config ecl_errors

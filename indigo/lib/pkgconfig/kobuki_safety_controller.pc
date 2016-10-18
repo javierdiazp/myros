@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: kobuki_safety_controller
+Description: Description of kobuki_safety_controller
+Version: 0.6.7
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lkobuki_safety_controller_nodelet
+Requires: roscpp nodelet pluginlib std_msgs geometry_msgs kobuki_msgs yocs_controllers ecl_threads

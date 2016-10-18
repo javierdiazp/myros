@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_license
+Description: Description of ecl_license
+Version: 0.61.4
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

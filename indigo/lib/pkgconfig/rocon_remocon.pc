@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: rocon_remocon
+Description: Description of rocon_remocon
+Version: 0.7.12
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

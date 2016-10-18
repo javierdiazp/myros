@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_time
+Description: Description of ecl_time
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lecl_time
+Requires: ecl_build ecl_config ecl_errors ecl_exceptions ecl_time_lite

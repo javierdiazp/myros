@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: rospy_message_converter
+Description: Description of rospy_message_converter
+Version: 0.4.0
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: message_runtime std_msgs

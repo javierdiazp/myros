@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: kobuki_random_walker
+Description: Description of kobuki_random_walker
+Version: 0.6.7
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lkobuki_random_walker_nodelet
+Requires: ecl_threads geometry_msgs kobuki_msgs nodelet pluginlib roscpp std_msgs yocs_controllers

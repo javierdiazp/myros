@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: turtlebot_calibration
+Description: Description of turtlebot_calibration
+Version: 2.3.3
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: std_msgs message_runtime

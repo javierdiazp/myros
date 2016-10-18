@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: navfn
+Description: Description of navfn
+Version: 1.12.13
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lnavfn
+Requires: nav_core roscpp pluginlib

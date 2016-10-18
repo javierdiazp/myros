@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: yocs_controllers
+Description: Description of yocs_controllers
+Version: 0.6.4
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: roscpp

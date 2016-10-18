@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: turtlebot_actions
+Description: Description of turtlebot_actions
+Version: 2.3.3
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: roscpp actionlib actionlib_msgs geometry_msgs message_runtime tf cv_bridge image_transport image_geometry turtlebot_bringup

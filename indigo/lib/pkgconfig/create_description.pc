@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: create_description
+Description: Description of create_description
+Version: 2.3.0
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: urdf xacro

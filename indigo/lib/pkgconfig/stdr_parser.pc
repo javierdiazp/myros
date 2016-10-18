@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: stdr_parser
+Description: Description of stdr_parser
+Version: 0.3.1
+Cflags: -I/opt/ros/indigo/include -I/usr/include
+Libs: -L/opt/ros/indigo/lib -lstdr_parser -l:/usr/lib/i386-linux-gnu/libtinyxml.so
+Requires: roscpp roslib stdr_msgs

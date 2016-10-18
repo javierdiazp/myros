@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_formatters
+Description: Description of ecl_formatters
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lecl_formatters
+Requires: ecl_config ecl_exceptions ecl_converters

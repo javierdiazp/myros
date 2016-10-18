@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <NXUSTREAM2>
+    <NxuPhysicsCollection id="beshon" sdkVersion="244" nxuVersion="100">
+      <NxPhysicsSDKDesc id="SDK">
+        <hwPageSize>65536</hwPageSize>
+        <hwPageMax>256</hwPageMax>
+        <hwConvexMax>2048</hwConvexMax>
+      </NxPhysicsSDKDesc>
+  <NxConvexMeshDesc id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_0">
+    <points>
+      0.016892139 -0.079384156 0.05845375  0.01605081 0.000291513 0.059369963  0.133251801 0.001113396 0.007609417  0.132198319 -0.079384156 0.007609417  
+      0.068359882 -0.079384156 0.076523468  0.124146812 -0.079384156 0.03592521  0.113731392 0.000976508 0.046752438  0.067198128 0.000650189 0.078888804  
+      0.067280002 -0.011807 0.079373002  0.100649036 -0.079384156 0.058770776  0.124344081 0.00105093 0.035381395  0.05162904 -0.079384156 0.074158914  
+    </points>
+    <triangles>
+      0 1 2  0 2 3  0 3 4  5 3 2  
+      5 4 3  6 2 1  7 1 8  7 8 6  
+      7 6 1  9 4 5  9 5 6  9 8 4  
+      9 6 8  10 5 2  10 2 6  10 6 5  
+      11 8 1  11 1 0  11 4 8  11 0 4  
+    </triangles>
+  </NxConvexMeshDesc>
+  <NxConvexMeshDesc id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_1">
+    <points>
+      0.016483715 0.000294549 -0.064098731  0.133251801 0.001113396 0.007609417  0.10863319 0.000940756 -0.050876997  0.132198319 -0.079384156 0.007609417  
+      0.017322028 -0.079384156 -0.064145386  0.118742377 -0.079384156 -0.043999873  0.080098771 -0.079384156 -0.062990025  0.077141002 0.000719914 -0.063428998  
+      0.121223249 0.001029045 -0.041160159  0.134902507 -0.079384156 -0.003922543  0.134292006 0.001120691 -0.005790504  0.0961634 -0.079384156 -0.058361378  
+    </points>
+    <triangles>
+      0 1 2  3 1 0  3 0 4  3 4 5  
+      6 5 4  7 0 2  7 4 0  7 6 4  
+      8 2 1  8 5 2  9 3 5  9 5 8  
+      9 1 3  10 8 1  10 1 9  10 9 8  
+      11 6 7  11 7 2  11 2 5  11 5 6  
+    </triangles>
+  </NxConvexMeshDesc>
+  <NxConvexMeshDesc id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_2">
+    <points>
+      0.017716607 -0.157140106 0.056587249  0.092587002 -0.157793 0.071212001  0.068359882 -0.079384156 0.076523468  0.017322028 -0.079384156 -0.064145386  
+      0.121242002 -0.098277003 -0.055481002  0.017993094 -0.142906651 -0.064962983  0.120857999 -0.157633007 -0.054191999  0.016892139 -0.079384156 0.05845375  
+      0.142879993 -0.157060996 -0.005169  0.144703001 -0.098105997 0.000254  0.117927998 -0.098082997 0.056933999  0.118742377 -0.079384156 -0.043999873  
+    </points>
+    <triangles>
+      0 1 2  3 4 5  3 5 0  6 5 4  
+      6 0 5  6 1 0  7 0 2  7 2 3  
+      7 3 0  8 6 4  8 4 9  8 1 6  
+      10 1 8  10 8 9  10 2 1  10 9 2  
+      11 3 2  11 2 9  11 4 3  11 9 4  
+    </triangles>
+  </NxConvexMeshDesc>
+  <NxConvexMeshDesc id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_3">
+    <points>
+      0.067198128 0.000650189 0.078888804  0.0148645 0.000283194 -0.064099811  0.129554525 0.001087469 -0.020825984  0.0148645 0.156820729 -0.062932976  
+      0.0148645 0.156716764 0.055162314  0.125622004 0.158070996 0.047538001  0.132191002 0.157435 -0.038525  0.141295001 0.097848997 -0.021406  
+      0.0148645 0.000283194 0.058771022  0.124344081 0.00105093 0.035381395  0.092651002 0.000828679 -0.059711002  0.082046002 0.157443002 0.074051999  
+    </points>
+    <triangles>
+      0 1 2  3 1 4  5 3 4  6 3 5  
+      6 5 7  8 1 0  8 0 4  8 4 1  
+      9 2 7  9 7 5  9 0 2  9 5 0  
+      10 7 2  10 6 7  10 2 1  10 1 3  
+      10 3 6  11 4 0  11 0 5  11 5 4  
+    </triangles>
+  </NxConvexMeshDesc>
+  <NxConvexMeshDesc id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_4">
+    <points>
+      -0.102537997 -0.009343 -0.018735001  0.017716607 -0.157140106 0.056587249  0.0148645 0.140518874 0.057227112  -0.077610999 0.157528996 -0.003489  
+      0.01812893 -0.156150237 -0.063971922  -0.063294001 -0.129068002 -0.065861002  0.0148645 0.156820729 -0.062932976  -0.076747999 -0.158625007 -0.007311  
+      -0.078428999 0.157569006 -0.058247  -0.112988003 0.006459 -0.063957997  -0.068389997 -0.156280994 -0.063372001  0.0148645 0.156716764 0.055162314  
+    </points>
+    <triangles>
+      0 1 2  3 0 2  4 5 6  7 4 1  
+      7 1 0  8 3 6  9 6 5  9 8 6  
+      9 0 3  9 3 8  9 7 0  10 7 9  
+      10 9 5  10 5 4  10 4 7  11 4 6  
+      11 2 1  11 1 4  11 6 3  11 3 2  
+    </triangles>
+  </NxConvexMeshDesc>
+  <NxSceneDesc id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L">
+        <filterBool>false</filterBool>
+        <filterOp0>NX_FILTEROP_AND</filterOp0>
+        <filterOp1>NX_FILTEROP_AND</filterOp1>
+        <filterOp2>NX_FILTEROP_AND</filterOp2>
+        <NxGroupsMask id="groupMask0" bits0="0" bits1="0" bits2="0" bits3="0"/>
+        <NxGroupsMask id="groupMask1" bits0="0" bits1="0" bits2="0" bits3="0"/>
+        <gravity>0 -9.800000191 0</gravity>
+        <maxTimestep>0.016666668</maxTimestep>
+        <maxIter>8</maxIter>
+        <timeStepMethod>NX_TIMESTEP_FIXED</timeStepMethod>
+        <maxBounds>FLT_MIN FLT_MIN FLT_MIN  FLT_MAX FLT_MAX FLT_MAX</maxBounds>
+        <NxSceneLimits id="limits">
+          <maxNbActors>0</maxNbActors>
+          <maxNbBodies>0</maxNbBodies>
+          <maxNbStaticShapes>0</maxNbStaticShapes>
+          <maxNbDynamicShapes>0</maxNbDynamicShapes>
+          <maxNbJoints>0</maxNbJoints>
+        </NxSceneLimits>
+        <simType>NX_SIMULATION_SW</simType>
+        <groundPlane>true</groundPlane>
+        <boundsPlanes>false</boundsPlanes>
+        <NxSceneFlags id="flags">
+          <NX_SF_DISABLE_SSE>false</NX_SF_DISABLE_SSE>
+          <NX_SF_DISABLE_COLLISIONS>false</NX_SF_DISABLE_COLLISIONS>
+          <NX_SF_SIMULATE_SEPARATE_THREAD>true</NX_SF_SIMULATE_SEPARATE_THREAD>
+          <NX_SF_ENABLE_MULTITHREAD>false</NX_SF_ENABLE_MULTITHREAD>
+        </NxSceneFlags>
+        <internalThreadCount>0</internalThreadCount>
+        <backgroundThreadCount>0</backgroundThreadCount>
+        <threadMask>1431655764</threadMask>
+        <backgroundThreadMask>1431655764</backgroundThreadMask>
+        <NxMaterialDesc id="Material_0" userProperties="" hasSpring="false" materialIndex="0">
+          <dynamicFriction>0.5</dynamicFriction>
+          <staticFriction>0.5</staticFriction>
+          <restitution>0</restitution>
+          <dynamicFrictionV>0</dynamicFrictionV>
+          <staticFrictionV>0</staticFrictionV>
+          <frictionCombineMode>NX_CM_AVERAGE</frictionCombineMode>
+          <restitutionCombineMode>NX_CM_AVERAGE</restitutionCombineMode>
+          <dirOfAnisotropy>1 0 0</dirOfAnisotropy>
+          <NxMaterialFlag id="flags">
+            <NX_MF_ANISOTROPIC>false</NX_MF_ANISOTROPIC>
+            <NX_MF_DISABLE_FRICTION>false</NX_MF_DISABLE_FRICTION>
+            <NX_MF_DISABLE_STRONG_FRICTION>false</NX_MF_DISABLE_STRONG_FRICTION>
+          </NxMaterialFlag>
+        </NxMaterialDesc>
+    <NxActorDesc id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L" userProperties="" hasBody="true" name="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L">
+      <globalPose>1 0 0    0 1 0    0 0 1    0 0 0 </globalPose>
+			<NxBodyDesc>
+        <mass>1</mass>
+        <linearDamping>0</linearDamping>
+        <angularDamping>0</angularDamping>
+        <solverIterationCount>32</solverIterationCount>
+        <NxBodyFlag id="flags">
+          <NX_BF_POSE_SLEEP_TEST>true</NX_BF_POSE_SLEEP_TEST>
+          <NX_AF_DISABLE_COLLISION>false</NX_AF_DISABLE_COLLISION>
+        </NxBodyFlag>
+      </NxBodyDesc>
+      <name>Bip01 Pelvis</name>
+      <NxConvexShapeDesc id="Shape_0" meshData="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_0">
+      <NxShapeDesc>
+        <localPose>1 0 0    0 1 0    0 0 1    0 0 0 </localPose>
+        <skinWidth>0</skinWidth>
+      </NxShapeDesc>
+      </NxConvexShapeDesc>
+      <NxConvexShapeDesc id="Shape_1" meshData="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_1">
+      <NxShapeDesc>
+        <localPose>1 0 0    0 1 0    0 0 1    0 0 0 </localPose>
+        <skinWidth>0</skinWidth>
+      </NxShapeDesc>
+      </NxConvexShapeDesc>
+      <NxConvexShapeDesc id="Shape_2" meshData="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_2">
+      <NxShapeDesc>
+        <localPose>1 0 0    0 1 0    0 0 1    0 0 0 </localPose>
+        <skinWidth>0</skinWidth>
+      </NxShapeDesc>
+      </NxConvexShapeDesc>
+      <NxConvexShapeDesc id="Shape_3" meshData="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_3">
+      <NxShapeDesc>
+        <localPose>1 0 0    0 1 0    0 0 1    0 0 0 </localPose>
+        <skinWidth>0</skinWidth>
+      </NxShapeDesc>
+      </NxConvexShapeDesc>
+      <NxConvexShapeDesc id="Shape_4" meshData="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L_4">
+      <NxShapeDesc>
+        <localPose>1 0 0    0 1 0    0 0 1    0 0 0 </localPose>
+        <skinWidth>0</skinWidth>
+      </NxShapeDesc>
+      </NxConvexShapeDesc>
+    </NxActorDesc>
+  </NxSceneDesc>
+	 <NxSceneInstance id="/tmp/binarydeb/ros-indigo-pr2-description-1.11.14/meshes/head_v0/convex/head_pan_L">
+	 	 <sceneName>beshon</sceneName>
+	 	 <NxuUserProperties></NxuUserProperties>
+	 	 <rootNode>1	0	0	0	1	0	0	0	1	0	0 0</rootNode>
+	 	 <newScene>false</newScene>
+	 	 <ignorePlane>true</ignorePlane>
+	 	 <numSceneInstances>0</numSceneInstances>
+	 </NxSceneInstance>
+  </NxuPhysicsCollection>
+</NXUSTREAM2>

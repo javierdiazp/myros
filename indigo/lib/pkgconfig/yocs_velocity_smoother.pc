@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: yocs_velocity_smoother
+Description: Description of yocs_velocity_smoother
+Version: 0.6.4
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lyocs_velocity_smoother_nodelet
+Requires: roscpp pluginlib nodelet ecl_threads dynamic_reconfigure geometry_msgs nav_msgs

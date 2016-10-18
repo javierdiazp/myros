@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_mobile_robot
+Description: Description of ecl_mobile_robot
+Version: 0.60.1
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lecl_mobile_robot
+Requires: ecl_build ecl_errors ecl_geometry ecl_math ecl_formatters ecl_linear_algebra

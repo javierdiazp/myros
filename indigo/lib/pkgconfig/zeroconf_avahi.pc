@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: zeroconf_avahi
+Description: Description of zeroconf_avahi
+Version: 0.2.3
+Cflags: -I/opt/ros/indigo/include -I/usr/include
+Libs: -L/opt/ros/indigo/lib -lzeroconf_avahi -l:/usr/lib/i386-linux-gnu/libboost_thread.so -l:/usr/lib/i386-linux-gnu/libpthread.so
+Requires: rosconsole roscpp zeroconf_msgs

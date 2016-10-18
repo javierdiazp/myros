@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: kobuki_dashboard
+Description: Description of kobuki_dashboard
+Version: 0.4.2
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

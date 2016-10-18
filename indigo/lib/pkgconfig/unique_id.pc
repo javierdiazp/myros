@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: unique_id
+Description: Description of unique_id
+Version: 1.0.5
+Cflags: -I/opt/ros/indigo/include -I/usr/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: uuid_msgs

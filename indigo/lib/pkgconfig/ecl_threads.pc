@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_threads
+Description: Description of ecl_threads
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lecl_threads -lpthread
+Requires: ecl_config ecl_errors ecl_concepts ecl_exceptions ecl_time ecl_utilities

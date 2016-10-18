@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: pano_ros
+Description: Description of pano_ros
+Version: 2.3.3
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: std_msgs sensor_msgs actionlib_msgs message_runtime

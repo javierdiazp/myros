@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: laptop_battery_monitor
+Description: Description of laptop_battery_monitor
+Version: 0.1.3
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: smart_battery_msgs diagnostic_msgs

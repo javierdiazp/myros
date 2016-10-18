@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: yocs_cmd_vel_mux
+Description: Description of yocs_cmd_vel_mux
+Version: 0.6.4
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lyocs_cmd_vel_mux_nodelet -lyaml-cpp
+Requires: roscpp pluginlib nodelet dynamic_reconfigure geometry_msgs

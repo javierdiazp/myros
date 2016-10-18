@@ -1,0 +1,15 @@
+(cl:defpackage rocon_service_pair_msgs-msg
+  (:use )
+  (:export
+   "<TESTIESPAIRRESPONSE>"
+   "TESTIESPAIRRESPONSE"
+   "<TESTIESREQUEST>"
+   "TESTIESREQUEST"
+   "<TESTIESPAIRREQUEST>"
+   "TESTIESPAIRREQUEST"
+   "<TESTIESRESPONSE>"
+   "TESTIESRESPONSE"
+   "<TESTIESPAIR>"
+   "TESTIESPAIR"
+  ))
+

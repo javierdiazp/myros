@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: pr2_description
+Description: Description of pr2_description
+Version: 1.11.14
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: xacro

@@ -1,0 +1,15 @@
+(cl:defpackage capabilities-msg
+  (:use )
+  (:export
+   "<CAPABILITYEVENT>"
+   "CAPABILITYEVENT"
+   "<REMAPPING>"
+   "REMAPPING"
+   "<CAPABILITY>"
+   "CAPABILITY"
+   "<CAPABILITYSPEC>"
+   "CAPABILITYSPEC"
+   "<RUNNINGCAPABILITY>"
+   "RUNNINGCAPABILITY"
+  ))
+

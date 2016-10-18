@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: world_canvas_client_py
+Version: 0.1.0
+Summary: Python client library to access semantic maps within the world canvas framework.
+Home-page: http://ros.org/wiki/world_canvas_client_py
+Author: Jorge Santos
+Author-email: jsantossimon@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: roslib
+Requires: rospy
+Requires: world_canvas_msgs

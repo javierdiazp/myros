@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_build
+Description: Description of ecl_build
+Version: 0.61.4
+Cflags: 
+Libs: -L/opt/ros/indigo/lib 
+Requires: 

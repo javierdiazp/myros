@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: kobuki_dock_drive
+Description: Description of kobuki_dock_drive
+Version: 0.6.4
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib -lkobuki_dock_drive
+Requires: ecl_threads ecl_geometry ecl_linear_algebra

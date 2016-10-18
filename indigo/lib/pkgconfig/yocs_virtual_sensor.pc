@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: yocs_virtual_sensor
+Description: Description of yocs_virtual_sensor
+Version: 0.6.4
+Cflags: -I/opt/ros/indigo/include -I/usr/include
+Libs: -L/opt/ros/indigo/lib -l:/usr/lib/i386-linux-gnu/libboost_system.so
+Requires: tf roscpp sensor_msgs geometry_msgs yocs_msgs yocs_math_toolkit

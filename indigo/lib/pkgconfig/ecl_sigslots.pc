@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_sigslots
+Description: Description of ecl_sigslots
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: ecl_config ecl_threads

@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: kobuki_msgs
+Description: Description of kobuki_msgs
+Version: 0.6.1
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: message_runtime std_msgs actionlib_msgs

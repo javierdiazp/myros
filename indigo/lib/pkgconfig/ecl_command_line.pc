@@ -1,0 +1,8 @@
+prefix=/opt/ros/indigo
+
+Name: ecl_command_line
+Description: Description of ecl_command_line
+Version: 0.61.14
+Cflags: -I/opt/ros/indigo/include
+Libs: -L/opt/ros/indigo/lib 
+Requires: 
